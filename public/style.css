@@ -1,5 +1,10 @@
 .logo {
     padding: 10px;
+    max-width: 50px;
+  }
+  
+  header {
+    width: 100vw;
   }
   
   main {
@@ -151,7 +156,7 @@
   }
 
   #city:focus {
-    transition: ;
+    background-color: rgba(0, 0, 0, 0.8);
   }
   
   #button {
